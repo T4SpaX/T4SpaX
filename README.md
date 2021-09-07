@@ -6,5 +6,6 @@
 - 😄 Pronouns: He
 <div>
   <a href="https://github.com/T4SpaX">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=T4SpaX&show_icons=true">
 </div>
 
