@@ -3,7 +3,7 @@
 - 🔭 today I work with front-end
 - 🌱 i'm learning reactjs, ts and next
 - 📫 How to reach me: t4spax@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Sr
 <div display="inline">
   <a href="https://github.com/T4SpaX">
   <img height="150" widht="100" src="https://github-readme-stats.vercel.app/api?username=T4SpaX&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
