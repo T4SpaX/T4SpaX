@@ -1,7 +1,7 @@
 ### Hello i'm Spax 
 
 - 🔭 today I work with front-end
-- 🌱 i'm learning reactjs, ts and next
+- 🌱 i'm learning reactjs, ts and node
 - 📫 How to reach me: t4spax@gmail.com
 - 😄 Pronouns: He/Sr
 <div display="inline">
