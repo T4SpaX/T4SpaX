@@ -2,7 +2,7 @@
 
 - 🔭 today I work with front-end
 - 🌱 i'm learning reactjs, ts and node
-- 📫 How to reach me: t4spax@gmail.com
+- 📫 How to reach me: t4spax@gmail.com or adrieldev174@gmail.com
 - 😄 Pronouns: He/Sr
 <div display="inline">
   <a href="https://github.com/T4SpaX">
