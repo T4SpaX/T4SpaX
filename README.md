@@ -1,4 +1,4 @@
-### Hello i'm Spax 
+### Hello i'm Adriel 
 
 - 🔭 today I work with reactJS - native and NextJS
 - 🌱 i'm learning GraphQl and MongoDb
