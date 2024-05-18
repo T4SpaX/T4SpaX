@@ -3,7 +3,7 @@
 - 🔭 today I work with reactJS - native and NextJS
 - 🌱 i'm learning GraphQl and RestAPIs
 - 📫 How to reach me: adriel.aprendiz@gmail.com
-- 😄 Pronouns: He/Sr Adriel/Spax
+- 😄 Pronouns: He/Sr Adriel
 <div display="inline">
   <a href="https://github.com/T4SpaX">
   <img height="150" widht="100" src="https://github-readme-stats.vercel.app/api/?username=T4SpaX&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
