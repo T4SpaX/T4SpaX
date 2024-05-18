@@ -1,7 +1,7 @@
 ### Hello i'm Adriel 
 
 - 🔭 today I work with reactJS - native and NextJS
-- 🌱 i'm learning GraphQl and MongoDb
+- 🌱 i'm learning GraphQl and RestAPIs
 - 📫 How to reach me: adriel.aprendiz@gmail.com
 - 😄 Pronouns: He/Sr Adriel/Spax
 <div display="inline">
