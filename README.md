@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriel-lucas/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:adriel.aprendiz@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://adrieldev.vercel.app/)
-[![DIO](https://img.shields.io/badge/-DIO-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://web.dio.me/users/adriel_aprendiz/?tab=achievements)
+[![DIO](https://img.shields.io/badge/-DIO-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://www.dio.me/users/adriel_aprendiz)
 
 ## Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
