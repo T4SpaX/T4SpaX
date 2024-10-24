@@ -41,7 +41,7 @@
 ![Clouflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
 ## Status Dashboard
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=buefy&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T4SpaX&theme=buefy&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Adriel%20dev&theme=buefy&border_radius=5&locale=pt_BR)](https://git.io/streak-stats)
 
 # Obrigado por visitar ♥
