@@ -44,5 +44,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T4SpaX&theme=buefy&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Adriel%20dev&theme=buefy&border_radius=5&locale=pt_BR)](https://git.io/streak-stats)
 
+
 # Obrigado por visitar ♥
 - primary account T4SpaX
+- second account adriel-dree
